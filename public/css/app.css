@@ -10960,6 +10960,8 @@ svg {
 label {
   font-size: 20px;
   font-weight: bold;
+  width: 100%;
+  text-align: center;
 }
 
 #flex_container {
