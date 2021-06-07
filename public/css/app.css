@@ -10944,7 +10944,7 @@ a.text-dark:focus {
 
 body {
   width: 100vw;
-  height: 50vh;
+  height: 100vh;
   background: #fafafa;
 }
 
@@ -10953,8 +10953,29 @@ body {
 svg {
   width: 100%;
   height: 1px;
-  margin: 15px 0px 0px -170px;
   padding-bottom: 50%;
   overflow: visible;
+}
+
+label {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#flex_container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin: 20px;
+}
+
+.first_container {
+  width: 100%;
+  height: auto;
+}
+
+.second_container {
+  width: 100%;
+  height: auto;
 }
 
