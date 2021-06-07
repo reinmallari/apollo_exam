@@ -37671,7 +37671,7 @@ var render = function() {
             {
               attrs: {
                 "font-family": "monospace",
-                "font-size": "20",
+                "font-size": "15",
                 fill: "#D91E18"
               }
             },
